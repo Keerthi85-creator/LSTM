@@ -1,6 +1,3 @@
-README — Next Word Prediction Using LSTM (with Streamlit Deployment)
-🔹 Project Title
-
 Next Word Prediction Using LSTM
 
 🔹 Project Overview
